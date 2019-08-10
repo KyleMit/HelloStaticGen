@@ -1,6 +1,6 @@
 # HelloStaticGen
 
-A sampling of different static generators from [staticgen.com](https://www.staticgen.com/)
+A sampling of different static generators from [staticgen.com](https://www.staticgen.com/) and deployed to [netlify](https://www.netlify.com/)
 
 ## Overview
 
